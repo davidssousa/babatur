@@ -9,6 +9,6 @@ File Description: Place here your custom CSS styles
 */
 
 .barbatur_font {
-    font: 'Monotype Corsiva';
-    color: darkblue;
+    font-family: 'Playball', cursive;
+    color: white;
 }

@@ -3,7 +3,7 @@ session_cache_limiter('nocache');
 header('Expires: ' . gmdate('r', 0));
 header('Content-type: application/json');
 
-$Recipient = 'david.sousa@msn.com'; // <-- Set your email here
+$Recipient = 'faleconosco@barbatur.com.br'; // <-- Set your email here
 
 $subject = $_POST['subject'];
 

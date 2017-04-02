@@ -22,6 +22,11 @@ File Description:Main CSS file of the template */
 ----------------------------------------------------------------------------- */
 /*Fonts
 ---------------------------------- */
+.barba_font  {
+  font-family: 'Playball', cursive;
+  text-transform: capitalize;
+}
+
 h1,
 h2,
 h3,
@@ -34,6 +39,7 @@ h6,
 body {
   font-family: 'Roboto', sans-serif;
 }
+
 .logo-font {
   font-family: 'Pacifico', cursive, sans-serif;
 }
