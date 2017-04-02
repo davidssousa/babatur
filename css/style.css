@@ -26,6 +26,12 @@ File Description:Main CSS file of the template */
   font-family: 'Playball', cursive;
   text-transform: capitalize;
 }
+.barba_font_mobile  {
+  font-family: 'Playball', cursive;
+  text-transform: capitalize;
+  margin-left: 20px;
+  margin-top: -3px;
+}
 
 h1,
 h2,
